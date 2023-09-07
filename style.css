@@ -122,7 +122,6 @@ img {
 #header .contact a {
   color: white;
   font-size: 0.85rem;
-  white-space: nowrap;
 }
 
 #header .contact:hover {
