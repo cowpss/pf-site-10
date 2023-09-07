@@ -114,7 +114,6 @@ img {
   padding: 0 40px;
   color: #fff;
   white-space: nowrap;
-  overflow: hidden;
   text-overflow: ellipsis;
   /* テキストが切れた場合に省略記号を表示 */
 }
